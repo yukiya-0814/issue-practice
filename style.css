@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 2em;
+  background-color: #f9f9f9;
+}
+
+ul {
+  padding-left: 1.5em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+.note {
+  background-color: #fffbe6;
+  border-left: 4px solid #ffcc00;
+  padding: 1em;
+  margin-top: 2em;
+}
